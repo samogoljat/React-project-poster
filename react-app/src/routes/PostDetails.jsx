@@ -10,8 +10,9 @@ function PostDetails() {
     return (
       <Modal>
         <main className={classes.details}>
-          <h1>Could not find post that you weere looking for (NEW BRANCH2)</h1>
-          <p>Unfortunately, the requested not found!</p>
+          <h1>Could not find post that you weere looking for (NEW BRANCH2)!!!!</h1>
+          <p>VSCode!</p>
+          <p>VSCode!2</p>
           <p>
             <Link to=".." className={classes.btn}>
               Okay
