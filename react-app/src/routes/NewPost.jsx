@@ -8,7 +8,7 @@ function NewPost() {
     <Modal>
       <Form method="post" className={classes.form}>
         <p>
-          <label htmlFor="body">Text lol</label>
+          <label htmlFor="body">Text lol2</label>
           <textarea id="body" name="body" required rows={3} />
         </p>
         <p>
