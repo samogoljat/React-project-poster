@@ -8,11 +8,11 @@ function NewPost() {
     <Modal>
       <Form method="post" className={classes.form}>
         <p>
-          <label htmlFor="body">Text lol1</label>
+          <label htmlFor="body">Text lol3</label>
           <textarea id="body" name="body" required rows={3} />
         </p>
         <p>
-          <label htmlFor="name">Your nameTes1</label>
+          <label htmlFor="name">Your name</label>
           <input type="text" id="name" name="author" required />
         </p>
         <p className={classes.actions}>
