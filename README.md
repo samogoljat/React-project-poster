@@ -9,3 +9,5 @@ $ npm start
 Frontend application:  
 $ npm install  
 $ npm run dev
+
+TEST
